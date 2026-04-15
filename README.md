@@ -6,10 +6,10 @@
 
 # Hello World! I'm Anh Duc, a CS student 👋🏼  
 
-🎓 Currently, I am a Computer Science student at [Ho Chi Minh City Univerisity of Technology](https://hcmut.edu.vn/).  
-🛜 Exploring and learning about technology.  
-👨‍💻 Interested in web development, programming, and artificial intelligence.  
-📚 Always looking for opportunities to improve my skills and expand my knowledge.  
+Currently, I am a Computer Science student at [Ho Chi Minh City Univerisity of Technology](https://hcmut.edu.vn/).  
+Exploring AI research and engineering, with a focus on agentic AI and multi-agent systems.
+Interested in developing scalable AI solutions, from LLM/SLM pipelines to real-world applications in computer vision and NLP.
+Continuously improving through research, hands-on projects, and applying deep learning to practical challenges. 
 
 💬 Let's connect!
 
