@@ -4,9 +4,9 @@
 
 ###
 
-# Hello World! I'm Tien Hung, a CE student 👋🏼  
+# Hello World! I'm Anh Duc, a CS student 👋🏼  
 
-🎓 Currently, I am a Computer Engineering student at [Ho Chi Minh City Univerisity of Technology](https://hcmut.edu.vn/).  
+🎓 Currently, I am a Computer Science student at [Ho Chi Minh City Univerisity of Technology](https://hcmut.edu.vn/).  
 🛜 Exploring and learning about technology.  
 👨‍💻 Interested in web development, programming, and artificial intelligence.  
 📚 Always looking for opportunities to improve my skills and expand my knowledge.  
@@ -25,15 +25,6 @@
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
 
 ###
-
-# 📊 Here is my GitHub stats:
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=TienHwng" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TienHwng&layout=compact&langs_count=8&card_width=220" />
-</a>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TienHwng/TienHwng/output/github-snake-dark.svg" />
