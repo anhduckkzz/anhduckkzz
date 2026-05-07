@@ -11,12 +11,6 @@ but perceive, reason, and act in the physical world.
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=900&lines=Embodied+AI;Autonomous+Systems;Real-time+Intelligence;Multi-Agent+Orchestration;Edge+AI+%2B+Robotics" />
 </p>
 
-<p align="center">
-<code>Initializing perception modules...</code><br/>
-<code>Loading autonomous agents...</code><br/>
-<code>Establishing sensor interfaces...</code><br/>
-<code>System ready.</code>
-</p>
 
 ###
 
