@@ -52,12 +52,7 @@ Git • Linux • SSH • Grafana • Postman • Cloudflare
 
 # ⚡️ Where to find me
 
-<p>
-  <a target="_blank" href="https://github.com/TienHwng" style="display: inline-block;">
-    <img alt="Git Hub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
-  </a>
-
-  <a target="_blank" href="https://www.linkedin.com/in/tienhung" style="display: inline-block;">
+  <a target="_blank" href="https://www.linkedin.com/in/anhduc522005g" style="display: inline-block;">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" />
   </a>
 </p>
