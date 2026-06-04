@@ -52,7 +52,7 @@ Git • Linux • SSH • Grafana • Postman • Cloudflare
 
 # ⚡️ Where to find me
 
-  <a target="_blank" href="https://www.linkedin.com/in/anhduc522005g" style="display: inline-block;">
+  <a target="_blank" href="https://www.linkedin.com/in/anhduc522005" style="display: inline-block;">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" />
   </a>
 </p>
