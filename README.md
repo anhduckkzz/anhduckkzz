@@ -50,6 +50,14 @@ Git • Linux • SSH • Grafana • Postman • Cloudflare
 
 ###
 
+# GitHub Contributions
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-gitblock.svg" alt="GitHub 3D Contribution Graph" />
+</p>
+
+###
+
 # ⚡️ Where to find me
 
   <a target="_blank" href="https://www.linkedin.com/in/anhduc522005" style="display: inline-block;">
